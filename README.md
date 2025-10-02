@@ -1,4 +1,4 @@
-### A_Print(#A_print.ipynb)
+### [A_Print](#A_print.ipynb)
 ### B_커맨드실행
 ### C_변수
 ### D_문자열
