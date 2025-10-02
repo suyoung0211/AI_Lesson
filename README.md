@@ -1,5 +1,5 @@
 ### [A_Print](https://colab.research.google.com/github/suyoung0211/python/blob/main/A_print.ipynb)
-### B_커맨드실행
+### [B_커맨드실행](https://colab.research.google.com/github/suyoung0211/python/blob/main/B_command.ipynb)
 ### C_변수
 ### D_문자열
 ### E_컬렉션타입-리스트
