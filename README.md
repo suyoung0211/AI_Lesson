@@ -1,4 +1,4 @@
-### A_Print
+### A_Print<https://colab.research.google.com/github/suyoung0211/python/blob/main/A_print.ipynb>
 ### B_커맨드실행
 ### C_변수
 ### D_문자열
