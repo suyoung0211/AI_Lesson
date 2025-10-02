@@ -5,7 +5,7 @@
 ### [E_컬렉션타입-리스트](https://colab.research.google.com/github/suyoung0211/python/blob/main/E_collectiontype_list.ipynb)
 ### [F_컬렉션타입-튜플](https://colab.research.google.com/github/suyoung0211/python/blob/main/F_collectiontype_tuple.ipynb)
 ### [G_컬렉션타입-딕셔너리](https://colab.research.google.com/github/suyoung0211/python/blob/main/G_collectiontype_dictionary.ipynb)
-### H_컬렉션타입-set
+### [H_컬렉션타입-set](https://colab.research.google.com/github/suyoung0211/python/blob/main/H_collectiontype_set.ipynb)
 ### I_파이썬 반복문
 ### J_컬렉션의 반복
 ### K_사용자 정의 함수
