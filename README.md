@@ -1,4 +1,4 @@
-### [A_Print](#A_print.ipynb)
+### A_Print
 ### B_커맨드실행
 ### C_변수
 ### D_문자열
@@ -9,3 +9,4 @@
 ### I_파이썬 반복문
 ### J_컬렉션의 반복
 ### K_사용자 정의 함수
+[tab=readme-ov-file#a_print](A_print.ipynb)
