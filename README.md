@@ -9,4 +9,4 @@
 ### [I_파이썬 반복문](https://colab.research.google.com/github/suyoung0211/python/blob/main/I_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%B0%98%EB%B3%B5%EB%AC%B8.ipynb)
 ### [J_컬렉션의 반복](https://colab.research.google.com/github/suyoung0211/Python/blob/main/J_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%98_%EB%B0%98%EB%B3%B5.ipynb)
 ### [K_사용자 정의 함수](https://colab.research.google.com/github/suyoung0211/Python/blob/main/K_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98_%ED%95%A8%EC%88%98.ipynb)
-### [L_변수scope]([https://colab.research.google.com/github/suyoung0211/Python/blob/main/L_%EB%B3%80%EC%88%98scope.ipynb](https://colab.research.google.com/github/suyoung0211/Python/blob/main/L_%EC%A1%B0%EA%B1%B4%EB%B6%80%ED%91%9C%ED%98%84%EC%8B%9D.ipynb)
+### [L_조건부표현식](https://colab.research.google.com/github/suyoung0211/Python/blob/main/L_%EC%A1%B0%EA%B1%B4%EB%B6%80%ED%91%9C%ED%98%84%EC%8B%9D.ipynb)
