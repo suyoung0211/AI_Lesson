@@ -12,3 +12,5 @@
 ### [L_조건부표현식](https://colab.research.google.com/github/suyoung0211/Python/blob/main/L_%EC%A1%B0%EA%B1%B4%EB%B6%80%ED%91%9C%ED%98%84%EC%8B%9D.ipynb)
 ### [M_변수scope](https://colab.research.google.com/github/suyoung0211/Python/blob/main/M_%EB%B3%80%EC%88%98scope.ipynb)
 ### [N_콜백함수](https://colab.research.google.com/github/suyoung0211/Python/blob/main/N_%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98.ipynb)
+### [O_가변매개변수](https://colab.research.google.com/github/suyoung0211/Python/blob/main/O_%EA%B0%80%EB%B3%80%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98.ipynb)
+### [P_객체지향과_클래스](https://colab.research.google.com/github/suyoung0211/Python/blob/main/P_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EA%B3%BC_%ED%81%B4%EB%9E%98%EC%8A%A4.ipynb)
